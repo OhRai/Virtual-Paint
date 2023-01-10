@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\raiya\source\repos\A Virtual Painter\A Virtual Painter\main.cpp(38,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\raiya\source\repos\A Virtual Painter\A Virtual Painter\main.cpp(43,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  A Virtual Painter.vcxproj -> C:\Users\raiya\source\repos\A Virtual Painter\x64\Debug\A Virtual Painter.exe
